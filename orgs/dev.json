@@ -1,6 +1,6 @@
 {
   "orgName": "Insurance-HC-Base-Org-release - Dev Org",
-  "edition": "Developer",
+ "template": "0TTB0000001SgRz",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
